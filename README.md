@@ -1,8 +1,10 @@
-INSTAÇÂO AUTOMATICA PELO menu.py
+# Instalação 🇧🇷
+
+INSTAÇÂO AUTOMÁTICA PELO menu.py
 
 RECOMENDAÇÕES: 
 
-- Instale o python 3.12
+- Instale o python 3.11 ou superior
 - Instale o Intel One API Tool
 (Talvez precise instalar também o Visual Studio 2026)
 
