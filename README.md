@@ -16,7 +16,7 @@ RECOMENDAÇÕES:
 
 
 
-# Por favor, prefira usar a versão 2.0 que está melhorada e tem suporte a diversos modelos sem estourar a memória.
+Por favor, prefira usar a versão 2.0 que está melhorada e tem suporte a diversos modelos sem estourar a memória.
 
 
 
@@ -24,7 +24,7 @@ RECOMENDAÇÕES:
 
 
 
-# Como instalar o Xelrís 2.0 no Termux
+Como instalar o Xelrís 2.0 no Termux
 
 ```
 pkg update && pkg upgrade
