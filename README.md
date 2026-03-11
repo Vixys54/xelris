@@ -19,6 +19,8 @@ RECOMENDAÇÕES:
 
 \\\ Como instalar o Xelrís 2.0 no Termux
 
+- Passo 1, instale as dependências com os comandos a baixo, copie e cole no seu Termux.
+
 ```
 pkg update && pkg upgrade
 pkg install python clang cmake ninja ndk-sysroot vulkan-loader-android vulkan-headers libandroid-shmem-static
