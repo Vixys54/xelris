@@ -1,8 +1,8 @@
 # Instalação 🇧🇷
-
+# Xelrís V1
 INSTAÇÂO AUTOMÁTICA PELO menu.py
 
-RECOMENDAÇÕES: 
+RECOMENDAÇÕES (Obrigatorio): 
 
 - Instale o python 3.11 ou superior
 - Instale o Intel One API Tool
@@ -13,6 +13,31 @@ RECOMENDAÇÕES:
 
 
 
+# Xelrís 2.0 (Instalação)
+
+Passo a passo
+1. Instalar Python 3.11
+No instalador, marcar "Add Python to PATH"
+https://www.python.org/downloads/release/python-3118/
+
+2. Instalar Git
+Instalar com padrões
+https://git-scm.com/download/win
+
+4. Instalar Visual Studio Build Tools
+Baixar o instalador
+Selecionar "Desenvolvimento para desktop com C++"
+Instalar (~6 GB)
+https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+6. Instalar Vulkan SDK
+Baixar e instalar com padrões
+Não precisa marcar opções extras
+https://vulkan.lunarg.com/sdk/home
+
+7. FFmpeg (opcional)	Para gerar vídeos MP4	
+https://ffmpeg.org/download.html 
+(ou winget install ffmpeg)
 
 
 
